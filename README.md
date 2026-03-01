@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -71,3 +72,7 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+=======
+# Doubt_Solver
+An Web Based Application where u can submit your doubts  their images and explain your queries and AI will reply you best solution explain best solution  in form of visualizations 
+>>>>>>> 1d8de6482ff0f0d9a72a62652ac7ec9ff37e4c67
